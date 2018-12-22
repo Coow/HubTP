@@ -1,0 +1,9 @@
+# HubTP config file
+# Version Alpha
+# Set Y level for player to TP back too
+# World: set the world it applies too
+ylevel: 63
+world: world
+spawnx: 0
+spawny: 70
+spawnz: 0
